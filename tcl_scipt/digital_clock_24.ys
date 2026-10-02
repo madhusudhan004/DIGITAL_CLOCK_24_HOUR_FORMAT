@@ -1,0 +1,8 @@
+read_verilog ../rtl/digital_clock_24.v
+hierarchy -check -top digital_clock_24
+proc
+opt
+synth -top digital_clock_24
+abc -g gates
+stat -tech cmos
+show -format jpeg -prefix digital_clock_24_ys_rtl -colors 2

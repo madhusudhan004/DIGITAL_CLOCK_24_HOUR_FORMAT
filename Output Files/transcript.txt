@@ -1,0 +1,210 @@
+# Time=0.000s --- CLOCK= 0 0::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=1.998s --- CLOCK= 0 0::0 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=2.004s --- CLOCK= 0 0::0 0::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0001100 
+# Time=3.002s --- CLOCK= 0 0::0 1::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:1001111 	 STD:0000001 SUD:0000001 
+# Time=3.008s --- CLOCK= 0 0::5 9::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=4.006s --- CLOCK= 0 1::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	                  MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=4.012s --- CLOCK= 2 3::5 9::5 9 --- DECODER_SEGMENT --- HTD:0010010 HUD:0000110 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=5.010s --- CLOCK= 0 0::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=5.016s --- CLOCK= 0 0::0 0::710 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0001111 SUD:0000001 
+# Time=5.018s --- CLOCK= 0 0::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=6.014s --- CLOCK= 0 0::0 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=7.014s --- CLOCK= 0 0::0 0::0 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0010010 
+# Time=8.014s --- CLOCK= 0 0::0 0::0 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000110 
+# Time=9.014s --- CLOCK= 0 0::0 0::0 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001100 
+# Time=10.014s --- CLOCK= 0 0::0 0::0 5 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0100100 
+# Time=10.020s --- CLOCK= 0 0::710::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0001111 MUD:0000001 	 STD:0100100 SUD:0001100 
+# Time=10.021s --- CLOCK= 0 0::0 0::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0001100 
+# Time=11.018s --- CLOCK= 0 0::0 1::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:1001111 	 STD:0000001 SUD:0000001 
+# Time=12.018s --- CLOCK= 0 0::0 1::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:1001111 	 STD:0000001 SUD:1001111 
+# Time=13.018s --- CLOCK= 0 0::0 1::0 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:1001111 	 STD:0000001 SUD:0010010 
+# Time=14.018s --- CLOCK= 0 0::0 1::0 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:1001111 	 STD:0000001 SUD:0000110 
+# Time=15.018s --- CLOCK= 0 0::0 1::0 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:1001111 	 STD:0000001 SUD:1001100 
+# Time=15.023s --- CLOCK= 310::5 9::5 9 --- DECODER_SEGMENT --- HTD:0000110 HUD:0000001 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=15.025s --- CLOCK= 0 0::5 9::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=16.021s --- CLOCK= 0 1::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=17.021s --- CLOCK= 0 1::0 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=18.021s --- CLOCK= 0 1::0 0::0 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0010010 
+# Time=19.021s --- CLOCK= 0 1::0 0::0 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000110 
+# Time=20.021s --- CLOCK= 0 1::0 0::0 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001100 
+# Time=20.027s --- CLOCK= 0 0::0 0::0 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0001100 
+# Time=21.025s --- CLOCK= 0 0::0 0::1 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0000001 
+# Time=22.025s --- CLOCK= 0 0::0 0::1 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:1001111 
+# Time=23.025s --- CLOCK= 0 0::0 0::1 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0010010 
+# Time=24.025s --- CLOCK= 0 0::0 0::1 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0000110 
+# Time=25.025s --- CLOCK= 0 0::0 0::1 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:1001100 
+# Time=26.025s --- CLOCK= 0 0::0 0::1 5 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0100100 
+# Time=27.025s --- CLOCK= 0 0::0 0::1 6 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0100000 
+# Time=28.025s --- CLOCK= 0 0::0 0::1 7 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0001111 
+# Time=29.025s --- CLOCK= 0 0::0 0::1 8 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0000000 
+# Time=30.025s --- CLOCK= 0 0::0 0::1 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001111 SUD:0001100 
+# Time=31.025s --- CLOCK= 0 0::0 0::2 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0000001 
+# Time=32.025s --- CLOCK= 0 0::0 0::2 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:1001111 
+# Time=33.025s --- CLOCK= 0 0::0 0::2 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0010010 
+# Time=34.025s --- CLOCK= 0 0::0 0::2 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0000110 
+# Time=35.025s --- CLOCK= 0 0::0 0::2 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:1001100 
+# Time=36.025s --- CLOCK= 0 0::0 0::2 5 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0100100 
+# Time=37.025s --- CLOCK= 0 0::0 0::2 6 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0100000 
+# Time=38.025s --- CLOCK= 0 0::0 0::2 7 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0001111 
+# Time=39.025s --- CLOCK= 0 0::0 0::2 8 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0000000 
+# Time=40.025s --- CLOCK= 0 0::0 0::2 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0010010 SUD:0001100 
+# Time=41.025s --- CLOCK= 0 0::0 0::3 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0000001 
+# Time=42.025s --- CLOCK= 0 0::0 0::3 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:1001111 
+# Time=43.025s --- CLOCK= 0 0::0 0::3 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0010010 
+# Time=44.025s --- CLOCK= 0 0::0 0::3 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0000110 
+# Time=45.025s --- CLOCK= 0 0::0 0::3 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:1001100 
+# Time=46.025s --- CLOCK= 0 0::0 0::3 5 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0100100 
+# Time=47.025s --- CLOCK= 0 0::0 0::3 6 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0100000 
+# Time=48.025s --- CLOCK= 0 0::0 0::3 7 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0001111 
+# Time=49.025s --- CLOCK= 0 0::0 0::3 8 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0000000 
+# Time=50.025s --- CLOCK= 0 0::0 0::3 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000110 SUD:0001100 
+# Time=51.025s --- CLOCK= 0 0::0 0::4 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0000001 
+# Time=52.025s --- CLOCK= 0 0::0 0::4 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:1001111 
+# Time=53.025s --- CLOCK= 0 0::0 0::4 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0010010 
+# Time=54.025s --- CLOCK= 0 0::0 0::4 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0000110 
+# Time=55.025s --- CLOCK= 0 0::0 0::4 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:1001100 
+# Time=56.025s --- CLOCK= 0 0::0 0::4 5 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0100100 
+# Time=57.025s --- CLOCK= 0 0::0 0::4 6 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0100000 
+# Time=58.025s --- CLOCK= 0 0::0 0::4 7 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0001111 
+# Time=59.025s --- CLOCK= 0 0::0 0::4 8 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0000000 
+# Time=60.025s --- CLOCK= 0 0::0 0::4 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:1001100 SUD:0001100 
+# Time=61.025s --- CLOCK= 0 0::0 0::5 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0000001 
+# Time=62.025s --- CLOCK= 0 0::0 0::5 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:1001111 
+# Time=63.025s --- CLOCK= 0 0::0 0::5 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0010010 
+# Time=64.025s --- CLOCK= 0 0::0 0::5 3 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0000110 
+# Time=65.025s --- CLOCK= 0 0::0 0::5 4 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:1001100 
+# Time=66.025s --- CLOCK= 0 0::0 0::5 5 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0100100 
+# Time=67.025s --- CLOCK= 0 0::0 0::5 6 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0100000 
+# Time=68.025s --- CLOCK= 0 0::0 0::5 7 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0001111 
+# Time=69.025s --- CLOCK= 0 0::0 0::5 8 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0000000 
+# Time=70.025s --- CLOCK= 0 0::0 0::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0100100 SUD:0001100 
+# Time=71.025s --- CLOCK= 0 0::0 1::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:1001111 	 STD:0000001 SUD:0000001 
+# Time=71.031s --- CLOCK= 0 0::4 9::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:1001100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=72.029s --- CLOCK= 0 0::5 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0100100 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=73.029s --- CLOCK= 0 0::5 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0100100 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=73.035s --- CLOCK= 1 9::5 9::5 9 --- DECODER_SEGMENT --- HTD:1001111 HUD:0001100 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=74.033s --- CLOCK= 2 0::0 0::0 0 --- DECODER_SEGMENT --- HTD:0010010 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=75.033s --- CLOCK= 2 0::0 0::0 1 --- DECODER_SEGMENT --- HTD:0010010 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=75.039s --- CLOCK= 2 4::5 9::5 9 --- DECODER_SEGMENT --- HTD:0010010 HUD:1001100 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=75.041s --- CLOCK= 0 0::5 9::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=76.037s --- CLOCK= 0 1::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=77.037s --- CLOCK= 0 1::0 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001111 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=77.043s --- CLOCK= 2 3::7 9::7 9 --- DECODER_SEGMENT --- HTD:0010010 HUD:0000110 	 MTD:0001111 MUD:0001100 	 STD:0001111 SUD:0001100 
+# Time=77.045s --- CLOCK= 2 3::0 0::0 0 --- DECODER_SEGMENT --- HTD:0010010 HUD:0000110 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=78.041s --- CLOCK= 2 3::0 0::0 1 --- DECODER_SEGMENT --- HTD:0010010 HUD:0000110 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=79.041s --- CLOCK= 2 3::0 0::0 2 --- DECODER_SEGMENT --- HTD:0010010 HUD:0000110 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0010010 
+# Time=79.047s --- CLOCK= 0 0::7 9::7 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0001111 MUD:0001100 	 STD:0001111 SUD:0001100 
+# Time=79.049s --- CLOCK= 0 0::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=80.045s --- CLOCK= 0 0::0 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=81.045s --- CLOCK= 0 0::0 0::0 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0010010 
+# Time=81.051s --- CLOCK= 0 0::0 0::7 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0001111 SUD:0001100 
+# Time=81.053s --- CLOCK= 0 0::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=82.049s --- CLOCK= 0 0::0 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=83.049s --- CLOCK= 0 0::0 0::0 2 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0010010 
+# Time=83.055s --- CLOCK= 0 0::0 9::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:0000001 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=84.053s --- CLOCK= 0 0::1 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:1001111 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=85.053s --- CLOCK= 0 0::1 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000001 	 MTD:1001111 MUD:0000001 	 STD:0000001 SUD:1001111 
+# Time=85.059s --- CLOCK= 0 3::5 9::5 9 --- DECODER_SEGMENT --- HTD:0000001 HUD:0000110 	 MTD:0100100 MUD:0001100 	 STD:0100100 SUD:0001100 
+# Time=86.057s --- CLOCK= 0 4::0 0::0 0 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001100 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:0000001 
+# Time=87.057s --- CLOCK= 0 4::0 0::0 1 --- DECODER_SEGMENT --- HTD:0000001 HUD:1001100 	 MTD:0000001 MUD:0000001 	 STD:0000001 SUD:1001111 
+# ** Note: $finish    : ../tb/top_digitalclock24tb.v(102)
+#    Time: 87060637300 ns  Iteration: 0  Instance: /top_digitalclock24tb
+# 1
+# Break in Module top_digitalclock24tb at ../tb/top_digitalclock24tb.v line 102
+coverage report
+# Coverage Report Summary Data by instance
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT/DIGITAL_CLOCK
+# === Design Unit: work.digital_clock_24
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        37        34         3    91.89%
+#     Conditions                      30        21         9    70.00%
+#     Statements                      37        34         3    91.89%
+#     Toggles                        100        93         7    93.00%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT/SECONDS_UNIT
+# === Design Unit: work.bcdto7segdec
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        11        11         0   100.00%
+#     Statements                      12        12         0   100.00%
+#     Toggles                         22        22         0   100.00%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT/SECONDS_TENS
+# === Design Unit: work.bcdto7segdec
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        11         8         3    72.72%
+#     Statements                      12         9         3    75.00%
+#     Toggles                         22        20         2    90.90%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT/MINUTES_UNIT
+# === Design Unit: work.bcdto7segdec
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        11         4         7    36.36%
+#     Statements                      12         5         7    41.66%
+#     Toggles                         22        16         6    72.72%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT/MINUTES_TENS
+# === Design Unit: work.bcdto7segdec
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        11         6         5    54.54%
+#     Statements                      12         7         5    58.33%
+#     Toggles                         22        18         4    81.81%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT/HOURS_UNIT
+# === Design Unit: work.bcdto7segdec
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        11         6         5    54.54%
+#     Statements                      12         7         5    58.33%
+#     Toggles                         22        18         4    81.81%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT/HOURS_TENS
+# === Design Unit: work.bcdto7segdec
+# =================================================================================ii
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Branches                        11         5         6    45.45%
+#     Statements                      12         6         6    50.00%
+#     Toggles                         22        16         6    72.72%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb/DUT
+# === Design Unit: work.top_digital_clock_24
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Toggles                        168       149        19    88.69%
+# 
+# =================================================================================
+# === Instance: /top_digitalclock24tb
+# === Design Unit: work.top_digitalclock24tb
+# =================================================================================
+#     Enabled Coverage              Bins      Hits    Misses  Coverage
+#     ----------------              ----      ----    ------  --------
+#     Statements                      56        56         0   100.00%
+#     Toggles                        128       111        17    86.71%
+# 
+# 
+# Total Coverage By Instance (filtered view): 77.87%
+# 
+# 
+# End time: 11:56:47 on Oct 02,2026, Elapsed time: 0:21:03
+# Errors: 0, Warnings: 0

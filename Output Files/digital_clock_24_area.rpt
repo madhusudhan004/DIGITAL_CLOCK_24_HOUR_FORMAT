@@ -1,0 +1,29 @@
+****************************************
+Report : area
+Design : top_digital_clock_24
+Version: X-2025.06
+Date   : Fri Oct  2 12:10:18 2026
+****************************************
+
+Information: Updating design information... (UID-85)
+Library(s) Used:
+
+    lsi_10k 
+
+Number of ports:                          172
+Number of nets:                           427
+Number of cells:                          290
+Number of combinational cells:            254
+Number of sequential cells:                28
+Number of macros/black boxes:               0
+Number of buf/inv:                         43
+Number of references:                       7
+
+Combinational area:                346.000000
+Buf/Inv area:                       43.000000
+Noncombinational area:             252.000000
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                   598.000000
+Total area:                 undefined
